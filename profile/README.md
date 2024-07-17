@@ -2,7 +2,7 @@
 
 This organization contains repositories of the [CrOSSD project](https://www.netidee.at/crossd).  
 For information about the project as well as our blog see our [project page](https://crossd.tech).  
-Technical information and setup instructions can be found [here](https://github.com/FH-CrOSSD/crossd), whereas our public instance is hosted at https://health.crossd.tech
+Technical information and setup instructions can be found [here](https://fh-crossd.github.io), whereas our public instance is hosted at https://health.crossd.tech
 
 ## Development team
 
